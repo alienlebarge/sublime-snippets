@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<INCLUDE_TYPOSCRIPT: source="FILE:${1:path}">
+]]></content>
+  <tabTrigger>include</tabTrigger>
+  <scope>source.typoscript</scope>
+  <description>Include a Typoscript file</description>
+</snippet>
